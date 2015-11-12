@@ -1,2 +1,2 @@
 # lua2
-lua require 
+lua require loadfile dofile
